@@ -27,6 +27,18 @@ function App() {
         <Carousel
           category = {dadosIniciais.categorias[2]}
         />
+
+        <Carousel
+          category = {dadosIniciais.categorias[3]}
+        />
+
+        <Carousel
+          category = {dadosIniciais.categorias[4]}
+        />
+
+        <Carousel
+          category = {dadosIniciais.categorias[5]}
+        />
     </div>
   );
 }
